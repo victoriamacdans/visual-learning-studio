@@ -1,0 +1,6 @@
+{
+  "name": "Visual Learning Studio",
+  "description": "An interactive dark-themed educational workspace combining a PDF viewer, 3D visualization stage, and AI tutor for exploring complex systems like jet propulsion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
